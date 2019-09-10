@@ -1,1 +1,0 @@
-This folder contain a descrptions of commands of VI, editor of text Unix
