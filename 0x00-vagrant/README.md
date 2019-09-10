@@ -1,0 +1,1 @@
+This file show the result od command uname
