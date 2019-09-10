@@ -1,1 +1,1 @@
-in this folder, you can see the uses for Git and their commands
+in this folder, you can see the uses for Git and their commands, 
