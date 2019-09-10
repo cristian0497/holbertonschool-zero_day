@@ -1,0 +1,1 @@
+In this folder, you can see the info about the text editor, VI and yours commands
