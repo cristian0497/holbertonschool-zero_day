@@ -1,1 +1,1 @@
-This README File, containt infor about the fisrt project vagrant in Holberto School, =D
+How to be up to date in git
